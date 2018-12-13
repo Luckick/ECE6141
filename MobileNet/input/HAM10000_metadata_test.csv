@@ -1,0 +1,12 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization
+HAM_0000118,ISIC_0027419,bkl,histo,80,male,scalp
+HAM_0000118,ISIC_0025030,bkl,histo,80,male,scalp
+HAM_0002730,ISIC_0026769,bkl,histo,80,male,scalp
+HAM_0002730,ISIC_0025661,bkl,histo,80,male,scalp
+HAM_0001466,ISIC_0031633,bkl,histo,75,male,ear
+HAM_0001466,ISIC_0027850,bkl,histo,75,male,ear
+HAM_0002761,ISIC_0029176,bkl,histo,60,male,face
+HAM_0002761,ISIC_0029068,bkl,histo,60,male,face
+HAM_0005132,ISIC_0025837,bkl,histo,70,female,back
+HAM_0005132,ISIC_0025209,bkl,histo,70,female,back
+HAM_0001396,ISIC_0025276,bkl,histo,55,female,trunk
